@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <LearnProps learn="I am learning React's Props"/>
+      <LearnProps learn="React's Props" greeting="Hamza" />
     </div>
   );
 }
