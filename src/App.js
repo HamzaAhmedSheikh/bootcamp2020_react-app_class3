@@ -1,11 +1,11 @@
 import React from 'react';
-import learnProps from './learnProps'
+import LearnProps from './learnProps'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <learnProps />
+      <LearnProps learn="I am learning React's Props"/>
     </div>
   );
 }
